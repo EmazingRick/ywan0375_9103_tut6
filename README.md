@@ -15,5 +15,10 @@ In addition, in the famous thriller movie **Psycho**, dissolve and match cut wer
 Add some interactive mechanisms to the still world famous paintings. When the user interacts with the artwork, the graphics will be converted into commonly recognized shapes of similarity/difference through dissolve and match cut, thereby enriching the user's visual experience.
 
 # 2 Coding Technique Exploration
+## Morph
+![morph](readmeImages/morph.png)
+
+An example of smooth transitions between graphics.
+[Morph](https://p5js.org/examples/motion-morph.html)
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
