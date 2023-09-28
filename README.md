@@ -16,9 +16,13 @@ Add some interactive mechanisms to the still world famous paintings. When the us
 
 # 2 Coding Technique Exploration
 ## Morph
-![morph](readmeImages/morph.png)
+![code of Morph](readmeImages/morph.png)
 
 An example of smooth transitions between graphics.
-[Morph](https://p5js.org/examples/motion-morph.html)
+[code of Morph](https://p5js.org/examples/motion-morph.html)
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+## Fading Grid
+![Fading Grid](readmeImages/fading_grid.png)
+
+A means of slowly returning graphics to their original state when the user stops interacting.
+[code of Fading Grid](https://happycoding.io/tutorials/p5js/arrays/fading-grid)
