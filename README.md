@@ -26,3 +26,9 @@ An example of smooth transitions between graphics.
 
 A means of slowly returning graphics to their original state when the user stops interacting.
 [code of Fading Grid](https://happycoding.io/tutorials/p5js/arrays/fading-grid)
+
+## Truchet Tiles
+![Truchet Tiles](readmeImages/truchet_tiles.png)
+
+An illuminating random transformation that taps into the public subconscious to replace graphics with other similar graphics.
+[code of Truchet Tiles](https://happycoding.io/tutorials/p5js/images/truchet-tiles)
